@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Flight--Msg/static/css/main.c161c929.chunk.css",
+    "main.js": "/Flight--Msg/static/js/main.9f71db04.chunk.js",
+    "main.js.map": "/Flight--Msg/static/js/main.9f71db04.chunk.js.map",
+    "runtime~main.js": "/Flight--Msg/static/js/runtime~main.17551407.js",
+    "runtime~main.js.map": "/Flight--Msg/static/js/runtime~main.17551407.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/Flight--Msg/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/Flight--Msg/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/Flight--Msg/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/Flight--Msg/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/Flight--Msg/index.html",
+    "precache-manifest.e6ff9ecf0057a96616c3db57edb55a28.js": "/Flight--Msg/precache-manifest.e6ff9ecf0057a96616c3db57edb55a28.js",
+    "service-worker.js": "/Flight--Msg/service-worker.js",
+    "static/css/main.c161c929.chunk.css.map": "/Flight--Msg/static/css/main.c161c929.chunk.css.map",
+    "static/media/logo.svg": "/Flight--Msg/static/media/logo.06e73328.svg"
+  }
+}
